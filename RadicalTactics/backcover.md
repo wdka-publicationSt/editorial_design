@@ -39,3 +39,5 @@ and build libraries.
 
 Watch The Radical Tactics of the Offline Library video on
 [http://vimeo.com/95351775](http://vimeo.com/95351775)
+
+![](imgs/video.png)

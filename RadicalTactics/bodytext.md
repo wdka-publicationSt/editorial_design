@@ -69,7 +69,7 @@ year, or 120.6 exabytes per month. Global IP traffic will reach
 remarkable figure: ‘ *In 2017, the gigabyte equivalent of all movies
 ever made will cross global IP networks every 3 minutes.*Global IP
 networks will deliver 13.8 petabytes every 5 minutes in 2017.’
-[^1]
+[^bodytext-01_1]
 
 These are stunning numbers. 1.4 zettabytes (ZB) is
 1,400,000,000,000,000,000,000 bytes. Remember, the Library of Congress
@@ -89,7 +89,7 @@ take advantage of an artificial scarcity against a huge demand, one
 growing fastest in the poorest areas. Cisco notes: ‘IP traffic is
 growing fastest in the Middle East and Africa, followed by Asia Pacific.
 Traffic in the Middle East and Africa will grow at a CAGR of 38 percent
-between 2012 and 2017.’ [^2]
+between 2012 and 2017.’ [^bodytext-01_2]
 
 The knowledge provided by whistleblowers like Edward Snowden has made it
 very clear that there is no privacy online. There is no truly private
@@ -119,7 +119,7 @@ city. By returning to an earlier and more secure form of exchange with
 contemporary devices, the quality of the exchange is amplified. The ‘old
 joke’ with Sneakernet was: ‘Never underestimate the bandwidth of a
 station wagon full of tapes hurtling down the highway.’
-[^3] The new metric: ‘Never underestimate the
+[^bodytext-01_3] The new metric: ‘Never underestimate the
 bandwidth of a minivan filled with multi-terabyte hard drives hurtling
 down the highway.’
 
@@ -174,7 +174,7 @@ It is important in this discussion to understand that people who share
 files are not ‘pirates’ and what they are doing is not ‘piracy’. As
 Aaron Swartz noted: ‘It’s called stealing or piracy, as if sharing a
 wealth of knowledge were the moral equivalent of plundering a ship and
-murdering its crew.’ [^4] Some twelve year old
+murdering its crew.’ [^bodytext-01_4] Some twelve year old
 sharing a sliver of a torrent file from a song by some prefabricated pop
 star on his computer in his mother’s air conditioned basement is not a
 pirate, and in the context of this discussion, such language is
@@ -198,12 +198,12 @@ essential problem to the debate.
 *We (filesharers) take up ‘Pirate’ like the LGBT community
 reappropriated ‘Gay’ or ‘Queer’.* \
 People who fileshare are not subjected to mob murder or the torment of
-chemical castration at the hands of the state. [^5]
+chemical castration at the hands of the state. [^bodytext-01_5]
 It is true that file sharers are subject to repressive laws – there have
 been moves in the U.S. Congress that, had they been enacted, would have
 resulted in someone who shared a song by Michael Jackson facing more
 time in prison than the doctor who actually killed him.
-[^6] This, of course, is ludicrous. The bravery of
+[^bodytext-01_6] This, of course, is ludicrous. The bravery of
 the LGBTQ community to appropriate ‘Gay’ and ‘Queer’ was of an order of
 magnitude more courageous than online activists appropriating ‘Pirate’
 given the violence and brutality LGBTQ people have faced over centuries
@@ -285,7 +285,7 @@ indexer. The best are Copernic, DTSearch, and Dropout. DTSearch is the
 fastest, but it’s also the most expensive at \$199. It’s a very powerful
 piece of software allowing for a range of Boolean and proximity
 searches. Copernic is nearly as good. Copernic has a free, very limited
-[^7] , version. The paid version is quite powerful,
+[^bodytext-01_7] , version. The paid version is quite powerful,
 although it’s a bit slower than DTSearch. Copernic only costs about
 \$50. Then there is Dropout.
 
@@ -362,7 +362,7 @@ Personal Portable Libraries don’t necessarily have to be filled with
 e-books, and often they aren’t. People frequently trade devices filled
 with recordings of music in mp3 files, in fact most file sharing is done
 using offline means, much more so than online means.
-[^8] By focusing here on the case of e-books and the
+[^bodytext-01_8] By focusing here on the case of e-books and the
 Personal Portable Library, we are thrust directly into the
 contradictions of Intellectual Property, human rights, and the
 exigencies of the digital. Although this ties us to a specific modality
@@ -397,7 +397,7 @@ architecture can be contrasted with P2P. In the following chart we see a
 basic P2P system, the arrows showing the flow of data.
 
 ![FIGURE 1. P2P STRUCTURE VIS A VIS FILE LOCATIONS.
-AUTHOR.](images/1.png)
+AUTHOR.](imgs/p2p.png)
 
 FIGURE 1. P2P STRUCTURE VIS A VIS FILE LOCATIONS. BY THE AUTHOR.
 
@@ -422,7 +422,7 @@ formed through trust and preference.
 The difference with data lockers is stark:
 
 ![FIGURE 2: DATA LOCKER STRUCTURE AND FILE LOCATION.
-AUTHOR.](images/2.png)
+AUTHOR.](imgs/locker.png)
 
 FIGURE 2: DATA LOCKER STRUCTURE AND FILE LOCATION. BY THE AUTHOR.
 
@@ -573,7 +573,7 @@ consanguineous. As a consequence, P2P systems were and are targeted for
 removal as they challenge the fundamental vampiric drive of capitalism:
 the complete monetization of all human cultural activity. The level of
 stress laid upon these organizations is tremendous and
-implosive.[^9]
+implosive.[^bodytext-01_9]
 
 Directly managed P2P systems like Napster and similar examples like
 Kazaa, Limewire, and Morpheus, all floundered and died in the face of
@@ -647,7 +647,7 @@ Amsterdam (New Media and Digital Culture program) visited MUBS to
 research ICT implementation in Uganda. During that time, MUBS built a
 library, but had little money left over for books or furniture. This
 changed in 2012 with a single hard drive with files from the Alexandria
-Project. [^10] Regardless of what happens to that
+Project. [^bodytext-01_10] Regardless of what happens to that
 particular collection of books, the direction is clear: this inexpensive
 gift can have a profound impact. It is bound to be an increasingly
 popular use of the Personal Portable Library in years to come.
@@ -655,7 +655,7 @@ popular use of the Personal Portable Library in years to come.
 This can be transferred to other arenas, with matters of endocolonial
 maldevelopment. From the destitute rural reservations of First Nations
 to the abandoned cities of post-collapse America a Personal Portable
-Library could mean a transformation. [^11] These
+Library could mean a transformation. [^bodytext-01_11] These
 municipalities have seen their libraries full of paper books closed and
 abandoned, the ragged remains of the cities sold off to the highest
 bidder in a turgid fit of neoliberal shock doctrine, the domestic
@@ -667,23 +667,23 @@ desperate need.
 
 * * * * *
 
-[^1]:  *Cisco Visual Networking Index: Forecast and Methodology*,
+[^bodytext-01_1]:  *Cisco Visual Networking Index: Forecast and Methodology*,
     2012-2017,
     [http://www.cisco.com/en/US/solutions/collateral/ns341/ns525/ns537/ns705/ns827/white\_paper\_c11-481360\_ns827\_Networking\_Solutions\_White\_Paper.html](http://www.cisco.com/en/US/solutions/collateral/ns341/ns525/ns537/ns705/ns827/white_paper_c11-481360_ns827_Networking_Solutions_White_Paper.html).
     Emphasis in the original. [↩]
 
-[^2]:  Cisco Systems, *Visual Networking Index*. [↩]
+[^bodytext-01_2]:  Cisco Systems, *Visual Networking Index*. [↩]
 
-[^3]:  Andrew S. Tanenbaum, *Computer Networks*, New Jersey: Prentice-Hall,
+[^bodytext-01_3]:  Andrew S. Tanenbaum, *Computer Networks*, New Jersey: Prentice-Hall,
     1996, p. 83. [↩]
 
-[^4]:  Aaron Swartz, *The Guerilla Open Access Manifesto*. 2008,
+[^bodytext-01_4]:  Aaron Swartz, *The Guerilla Open Access Manifesto*. 2008,
     [http://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008\_djvu.txt](http://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt).
 
-[^5]:  Like the case of Alan Turing.
+[^bodytext-01_5]:  Like the case of Alan Turing.
     [http://en.wikipedia.org/wiki/Alan\_Turing](http://en.wikipedia.org/wiki/Alan_Turing).
 
-[^6]:  CBC News, ‘Michael Jackson’s Doctor to Serve Halved Sentence’, *CBC
+[^bodytext-01_6]:  CBC News, ‘Michael Jackson’s Doctor to Serve Halved Sentence’, *CBC
     News*, 29 November 2011,
     [http://www.cbc.ca/news/arts/story/2011/11/29/jackson-doctor-conrad.html](http://www.cbc.ca/news/arts/story/2011/11/29/jackson-doctor-conrad.html).
     According to the article, ‘Conrad Murray, who served as Michael
@@ -692,21 +692,21 @@ desperate need.
     sentenced to four years of incarceration for his involuntary
     manslaughter conviction.’ [↩]
 
-[^7]:  Namely, a 2 GB index file limit. If you only have a few hundred or a
+[^bodytext-01_7]:  Namely, a 2 GB index file limit. If you only have a few hundred or a
     few thousand books, that shouldn’t be a problem – if your library is
     much larger, then Copernic won’t work. [↩]
 
-[^8]:  Ernesto, ‘RIAA: Online Music Piracy Pales in Comparison to Offline
+[^bodytext-01_8]:  Ernesto, ‘RIAA: Online Music Piracy Pales in Comparison to Offline
     Swapping’, *TorrentFreak*, 26 July 2012,
     [http://torrentfreak.com/riaa-online-music-piracy-pales-in-comparison-to-offline-swapping-120726/](http://torrentfreak.com/riaa-online-music-piracy-pales-in-comparison-to-offline-swapping-120726/).
     In 2011, online file sharing accounted for only 12% of ‘music
     acquisition’, while offline accounted for 46%.
 
-[^9]:  My experiences as a QA engineer at Napster were instructive, as I
+[^bodytext-01_9]:  My experiences as a QA engineer at Napster were instructive, as I
     will relate on the section dedicated to
     [Napster]. [↩]
 
-[^10]: Albert Mucunguzi, ‘Makerere University Business School (MUBS)
+[^bodytext-01_10]: Albert Mucunguzi, ‘Makerere University Business School (MUBS)
     Receives 50,000 eBooks’, *PC Tech*, 5 December 2012,
     [http://pctechmag.com/2012/12/makerere-university-business-school-mubs-receives-50000-eBooks/](http://pctechmag.com/2012/12/makerere-university-business-school-mubs-receives-50000-eBooks/).
     More examples are from interviews I have had with a number of people
@@ -714,13 +714,15 @@ desperate need.
     For their sake, they will remain anonymous, but suffice to say, they
     are all active scholars and intellectuals. [↩]
 
-[^11]: The Shrink to Survive plan was devised by Dan Kildee in Flint, MI.
+[^bodytext-01_11]: The Shrink to Survive plan was devised by Dan Kildee in Flint, MI.
     The idea has since caught on in several other cities. Detroit has
     actively bulldozed sections of itself, and Gary Indiana is
     considering bulldozing 40% of its land, which is now largely
     abandoned. Nick Bogert, ‘Battered City of Gary, ID, Considers
     Shrinking 40 Percent to Save Itself’, *NBC News*, 19 June 2013,
     [http://inplainsight.nbcnews.com/\_news/2013/06/19/18956862-battered-city-of-gary-ind-considers-shrinking-40-percent-to-save-itself?lite](http://inplainsight.nbcnews.com/_news/2013/06/19/18956862-battered-city-of-gary-ind-considers-shrinking-40-percent-to-save-itself?lite).
+
+
 
 # Towards a History of the Personal Portable Library 
 
@@ -775,9 +777,9 @@ and St. Bernadine of Siena is the patron saint of the lungs and chest.
 There are even patron saints for more contemporary professions – St.
 Hubert for machinists, St. John-Francis Regis for social workers, and
 St. Columba for ‘bookbinders; the Knights of Columbus; plagiarists;
-poets; Ireland; Scotland’ [^1] . One saint – St.
+poets; Ireland; Scotland’ [^bodytext-02_1] . One saint – St.
 Expedite – has even been appropriated by computer hackers.
-[^2] With such semi-divine protection fishermen might
+[^bodytext-02_2] With such semi-divine protection fishermen might
 not be lost at sea, knife sharpeners and machinists might keep their
 fingers, plagiarists continue plagiarizing, and presumably computer
 hackers continue merrily hacking away.
@@ -789,7 +791,7 @@ saint to protect them – they needed a supernatural scapegoat. When ink
 was spilt or a word misspelled, the cry rang out to curse the
 distracting demon who torments all copyists: Titivillus. Thus, through
 the material necessities of their work, copyists didn’t have a patron
-saint – they had a patron demon. [^3]
+saint – they had a patron demon. [^bodytext-02_3]
 
 The digital copyists of the Personal Portable Library don’t have to face
 such horrors; with simple measures, especially the basic responsibility
@@ -808,7 +810,7 @@ Metatron, the Recording Angel, patron of Personal Portable Libraries, as
 revealed by his ‘prophet’, Sol Yurick in 1985.
 
 > *Behold! Metatron, the Recording Angel and patron of Personal Portable
-> Libraries* [^4]
+> Libraries* [^bodytext-02_4]
 
 Metatron is a very special angel: ‘Metatron is perhaps the greatest of
 all the heavenly hierarchs, the 1st (as also the last) of the 10
@@ -816,10 +818,10 @@ archangels of the Briatic world. He has been called the king of angels,
 prince of the divine face or presence, chancellor of Heaven, angel of
 the covenant, chief of the ministering angels, and the lesser YHWH (the
 tetragrammaton). He is charged with the sustenance of mankind.’
-[^5]
+[^bodytext-02_5]
 
 The details of Metatron are complex, and related to the occult and
-mystical Judaist schools of Qaballah. [^6] Simply, it
+mystical Judaist schools of Qaballah. [^bodytext-02_6] Simply, it
 works like this: one cannot see the Godhead – when one is dealing with
 God, one is actually dealing with Metatron. God is perfect and beyond
 knowledge, so the archangel Metatron mediates between God and humans.
@@ -834,7 +836,7 @@ Countenance.
 The sustenance of mankind is electronic and under the auspices of
 Metatron the Recording Angel, which is especially poignant: for ‘man
 does not live by bread alone, but also by the communication of words’
-[^7] ; and the Personal Portable Library is the
+[^bodytext-02_7] ; and the Personal Portable Library is the
 radical distribution and copying of words to all mankind, the psychic,
 intellectual, digitally operant food for all mankind.
 
@@ -875,7 +877,7 @@ of place names, trade records, dictionaries, and syllabaries of Sumerian
 associated with Eblaite pronunciations, copybooks, lists of lexicons,
 scratch pads for students, king’s lists, and other educational material.
 After several invasions over a period of millennia, Ebla was finally
-abandoned in the eighth century CE. [^8]
+abandoned in the eighth century CE. [^bodytext-02_8]
 
 The development of libraries continued in both the Middle East and
 China, with a significant milestone in the library of King Ashurbanipal
@@ -896,12 +898,12 @@ true of the library at Alexandria.
 
 Shortly after its founding by Alexander III of Macedon in ca. 330 BCE,
 Alexandria became the main point for grain export from the Nile Delta
-and the centre for papyrus trade [^9] – the substrate
+and the centre for papyrus trade [^bodytext-02_9] – the substrate
 for data inscription in the form of scrolls. Much has been written about
 the fabled library of Alexandria. At the time, it was the largest
 library in the world. Eventually it came to hold approximately 490,000
 scrolls in the main building and 42,800 in the ‘daughter’ building, a
-total of about 532,800 scrolls at its peak. [^10] To
+total of about 532,800 scrolls at its peak. [^bodytext-02_10] To
 compare: that is roughly the size of the library.nu website before its
 vaporization at the hands of the proprietarian jihad against file
 sharing.
@@ -916,14 +918,14 @@ theatre, etc.) or genre (myths, omens, prophecies, origins, etc.). Once
 sorted, the scrolls were semi-alphabetized and tagged with the given
 section (say, theatre). There was no alphabetization beyond the first
 letter, and further alphabetization would not happen until the second
-century CE. [^11] This tagging of scrolls can be seen
+century CE. [^bodytext-02_11] This tagging of scrolls can be seen
 as the predecessor of metadata.
 
 A later director, Callimachus, sorted all the Greek writers on a large
 set of tables (‘pinakes’), largely based on the categories set up by
 Zenodotus. This resulted in tables for philosophers, orators, medical
 writers, even one for ‘miscellaneous’ including cookbooks.
-[^12] The pinakes were more than just a list, as they
+[^bodytext-02_12] The pinakes were more than just a list, as they
 included metadata – the author’s name, the name of the author’s father,
 the place of origin, and a statement about and a brief discussion of the
 content of the scroll. Together, these lists created a metastructure
@@ -956,7 +958,7 @@ to Alexandria where the scrolls were copied by the best scribes on the
 highest quality papyrus. The copies were then shipped back – the
 originals remaining in Alexandria! – and Athens was left with some
 deluxe copies of their most precious scrolls and a lot of gold.
-[^13] The key point is clear: the library operated as
+[^bodytext-02_13] The key point is clear: the library operated as
 a copy centre. Making copies generated scholarship and brought vast
 amounts of creativity and great power and wealth to the Ptolemy dynasty.
 
@@ -973,7 +975,7 @@ library was willing to finance the work and shipment.
 If Alexandria had followed a less aggressive model of file acquisition,
 and would have allowed opportunities for scrolls to be copied elsewhere
 and more than once, a greater regional resilience would have been
-created for a given book. [^14] The artificially
+created for a given book. [^bodytext-02_14] The artificially
 maintained scarcity made scrolls of importance even more precious and
 valuable. Consequently, other cities also started to develop collections
 at great expense.
@@ -981,7 +983,7 @@ at great expense.
 The greedy and vain Ptolemaic regime did not respond well to
 competition. Feeling threatened by the libraries in Rhodes and Pergamum,
 the Ptolemies banned the export of papyrus. This ill-considered move
-came with what we might call a ‘blowback’. [^15] In
+came with what we might call a ‘blowback’. [^bodytext-02_15] In
 this case, the blowback came from Pergamum. Faced with a collapse in
 scholarship from the loss of papyrus, parchment was invented. Parchment
 consists of animal skin that has been processed into a thin surface
@@ -996,7 +998,7 @@ spurred the development of parchment – a superior writing surface and
 communication substrate that would eventually obviate and replace the
 need for papyrus, not only the essential substrate of the Alexandria
 library but also a valuable export item for the Egyptian economy.
-[^16]
+[^bodytext-02_16]
 
 Another significant problem with papyrus is its flammability. Stories of
 the burning of Alexandria are well known up to this day. A fire of
@@ -1008,7 +1010,7 @@ papyrus crumbled to dust. Rome took over administration of the library
 in 30 CE. Directorship of the library did not go to great scholars or
 librarians, but was distributed as a gift of favoritism to
 administrators, military leaders, and even athletes.
-[^17] By the time the famous Library of Alexandria
+[^bodytext-02_17] By the time the famous Library of Alexandria
 burned and was damaged beyond repair in 270 CE, it had already suffered
 serious losses and centuries of bad administration.
 
@@ -1043,7 +1045,7 @@ In a letter Sidonius Apollinarus writes (430 CE):
 > gentlemen’s benches were works (...) of Latin eloquence (...) it was a
 > frequent practice to read writers whose artistry was of a similar kind
 > – here Augustine, there Varro, here Horace, there Prudentius.’
-> [^18]
+> [^bodytext-02_18]
 
 In the fourth century, the city of Rome was largely abandoned, and with
 its sacking in the fifth century, Western European scholarship suffered
@@ -1081,7 +1083,7 @@ which would fit on a drive the size of a deck of cards and cost less
 than \$80. While the cost of such a drive is completely out of reach for
 billions of people on the planet (according to the World Bank
 Development Indicators of 2008, about half the world, 3.5 billion
-people, live on less than \$2.50 a day [^19] ), for
+people, live on less than \$2.50 a day [^bodytext-02_19] ), for
 many people in industrialized nations it’s not an insurmountable cost,
 and for a good many people in the overdeveloped world, it’s a fairly
 trivial price. Cost is a comparatively low hurdle. Moreover, the range
@@ -1158,17 +1160,17 @@ blinds, or text was painted onto sheets of silk. The first emperor of
 the Qin dynasty Shi Huang ordered, for political reasons, the
 destruction of thousands of these books, as well as the deaths of
 hundreds of scholars, in order to break the Confucian bureaucracy and
-establish his reign as the first of a new era. [^20]
+establish his reign as the first of a new era. [^bodytext-02_20]
 In this way, Shi Huang came to the same conclusion as the Ptolemies in
 Egypt, namely, ‘that a monopoly on intellectual resources was as
 important to rule as imperial control over the production of rice and
-silk.’ [^21]
+silk.’ [^bodytext-02_21]
 
 The following dynasty, Han, placed great value on classical education,
 yet books continued to disappear through theft, fire, and rot; the
 common problems of a library. To promote durability at one point
 Buddhist scholars carved the Sutras into stone, totalling 4.2 million
-words. [^22] Another development was the carving of
+words. [^bodytext-02_22] Another development was the carving of
 stone cylindrical stelae that allowed for paper rubbings to be made,
 beginning in the third century CE. With the invention of paper in China,
 it took little time to develop actual printing in the eleventh century,
@@ -1221,11 +1223,11 @@ development of pulp based paper. Until the development of pulp paper
 mills, most paper was made from cotton, and prior to the development of
 the cotton gin in the mid-19th century, cotton was not an easy substance
 to acquire. Since clothing was still mostly homemade, there were few
-scraps left over for papermaking. [^23] The recycling
+scraps left over for papermaking. [^bodytext-02_23] The recycling
 of cotton was a source of income for poor boys who would go from door to
 door collecting old rags to sell them for a few pennies to the paper
 mills. This is the source of the word ‘ragamuffin’.
-[^24]
+[^bodytext-02_24]
 
 The material ability to make paper out of wood pulp, which also meant
 environmental destruction of industrial deforestation, permitted the
@@ -1281,7 +1283,7 @@ books, such an intimate appreciation would be impossible.
 
 A bulky predecessor of the Personal Portable Library was the portable
 set of bookcases developed by Walter Benjamin. In his 1931 essay
-‘Unpacking my Library’ [^25] , he investigates a
+‘Unpacking my Library’ [^bodytext-02_25] , he investigates a
 number of perceptions and experiences in the development of his own
 personal library. Loaded into a series of trunks or cases, Benjamin
 always carried a core collection of literature with him to have at his
@@ -1296,17 +1298,17 @@ accustomed confusion of these books.’ And, he noted: ‘For what else is
 this collection but a disorder to which habit has accommodated itself to
 such an extent that it can appear as order? You have all heard of people
 whom the loss of their books has turned into invalids, or of those who
-in order to acquire them became criminals.’ [^26]
+in order to acquire them became criminals.’ [^bodytext-02_26]
 
 Benjamin, once one digs past his bragging rights at auction,
-[^27] makes some points that contribute to the
+[^bodytext-02_27] makes some points that contribute to the
 Personal Portable Library: ‘For inside him there are spirits, or at
 least little genii, which have seen to it that for a collector – and I
 mean a real collector, a collector as he ought to be – ownership is the
 most intimate relationship that one can have to objects.’
-[^28] ‘And indeed, if there is a counterpart to the
+[^bodytext-02_28] ‘And indeed, if there is a counterpart to the
 confusion of a library, it is the order of its catalogue.’
-[^29] In the Personal Portable Library, the order of
+[^bodytext-02_29] In the Personal Portable Library, the order of
 the (card) catalogue is lost either through a recapitulation of
 epistemological categories based on curatorial decisions or else made
 redundant, dispensed with, except in the most rudimentary method of the
@@ -1383,84 +1385,86 @@ could have fit on a \$10 USB stick.
 
 * * * * *
 
-[^1]:  Information on patron saints is from Rosemary Ellen Guiley, *The
+[^bodytext-02_1]:  Information on patron saints is from Rosemary Ellen Guiley, *The
     Encyclopedia of Saints*, New York: Facts On File, Inc., 2001.
 
-[^2]:  Michelle Delio, ‘Patron Saint of the Nerds’, *Wired*, 4 October
+[^bodytext-02_2]:  Michelle Delio, ‘Patron Saint of the Nerds’, *Wired*, 4 October
     2011,
     [http://archive.wired.com/culture/lifestyle/news/2004/11/65184](http://archive.wired.com/culture/lifestyle/news/2004/11/65184).
 
-[^3]:  Mark Drogin, *Medieval Calligraphy: Its History and Technique*, New
+[^bodytext-02_3]:  Mark Drogin, *Medieval Calligraphy: Its History and Technique*, New
     York: Dover, 1989. [↩]
 
-[^4]:  Sol Yurick. *Behold Metatron: The Recording Angel*, New York:
+[^bodytext-02_4]:  Sol Yurick. *Behold Metatron: The Recording Angel*, New York:
     Semiotext(e), 1983. [↩]
 
-[^5]:  Gustav Davidson, *A Dictionary of Angels, Including the Fallen
+[^bodytext-02_5]:  Gustav Davidson, *A Dictionary of Angels, Including the Fallen
     Angels*, New York: Free Press, 1967, p.192. [↩]
 
-[^6]:  There are a number of different spellings: Qaballah, Kabbalah,
+[^bodytext-02_6]:  There are a number of different spellings: Qaballah, Kabbalah,
     Kabala or Cabala, depending on the spiritual tradtion’s norms, such
     as The Hermetic Order of the Golden Dawn, or the Ordo Templis
     Orientis. [↩]
 
-[^7]:  Matt. 4:4: ‘But he answered and said, It is written, Man shall not
+[^bodytext-02_7]:  Matt. 4:4: ‘But he answered and said, It is written, Man shall not
     live by bread alone, but by every word that proceeds out of the
     mouth of God.’ [↩]
 
-[^8]:  Michael Dumper and Bruce E. Stanley (eds) *Cities of the Middle East
+[^bodytext-02_8]:  Michael Dumper and Bruce E. Stanley (eds) *Cities of the Middle East
     and North Africa: A Historical Encyclopedia*, Santa Barbara:
     ABC-CLIO, 2007. [↩]
 
-[^9]:  Matthew Battles, *Library: An Unquiet History*, New York: W.W.
+[^bodytext-02_9]:  Matthew Battles, *Library: An Unquiet History*, New York: W.W.
     Norton, 2003, p. 26. [↩]
 
-[^10]: Casson, *Libraries in the Ancient World*, New Haven: Yale University
+[^bodytext-02_10]: Casson, *Libraries in the Ancient World*, New Haven: Yale University
     Press, 2002, p. 36. [↩]
 
-[^11]: Casson, *Libraries in the Ancient World*, p. 37.
+[^bodytext-02_11]: Casson, *Libraries in the Ancient World*, p. 37.
 
-[^12]: Casson, *Libraries in the Ancient World*, p. 40.
+[^bodytext-02_12]: Casson, *Libraries in the Ancient World*, p. 40.
 
-[^13]: Casson, *Libraries in the Ancient World*, p. 35.
+[^bodytext-02_13]: Casson, *Libraries in the Ancient World*, p. 35.
 
-[^14]: Battles, *Library: An Unquiet History*, p. 31. [↩]
+[^bodytext-02_14]: Battles, *Library: An Unquiet History*, p. 31. [↩]
 
-[^15]: Following Chalmers Johnson, *Blowback.The Costs and Consequences of
+[^bodytext-02_15]: Following Chalmers Johnson, *Blowback.The Costs and Consequences of
     American Empire*. Macmillan: 2001. [↩]
 
-[^16]: Johnson, *Blowback*, p. 29. [↩]
+[^bodytext-02_16]: Johnson, *Blowback*, p. 29. [↩]
 
-[^17]: Johnson, *Blowback*, p. 47. [↩]
+[^bodytext-02_17]: Johnson, *Blowback*, p. 47. [↩]
 
-[^18]: Battles, *Library: An Unquiet History*, p. 52. [↩]
+[^bodytext-02_18]: Battles, *Library: An Unquiet History*, p. 52. [↩]
 
-[^19]: World Bank, *Poverty and Inequality Database*,
+[^bodytext-02_19]: World Bank, *Poverty and Inequality Database*,
     [http://data.worldbank.org/products/data-books/WDI-2008](http://data.worldbank.org/products/data-books/WDI-2008).
 
-[^20]: Battles, *Library: An Unquiet History*, pp. 34-38.
+[^bodytext-02_20]: Battles, *Library: An Unquiet History*, pp. 34-38.
 
-[^21]: Battles, *Library: An Unquiet History*, p. 37. [↩]
+[^bodytext-02_21]: Battles, *Library: An Unquiet History*, p. 37. [↩]
 
-[^22]: Battles, *Library: An Unquiet History*, p. 40. [↩]
+[^bodytext-02_22]: Battles, *Library: An Unquiet History*, p. 40. [↩]
 
-[^23]: Derrick Jensen and Aric McBay, *What We Leave Behind*, New York:
+[^bodytext-02_23]: Derrick Jensen and Aric McBay, *What We Leave Behind*, New York:
     Seven Stories Press, 2009, p. 48. [↩]
 
-[^24]: Jensen and McBay, *What We Leave Behind*, p. 49.
+[^bodytext-02_24]: Jensen and McBay, *What We Leave Behind*, p. 49.
 
-[^25]: Walter Benjamin, ‘Unpacking My Library’ in: *Illuminations*, New
+[^bodytext-02_25]: Walter Benjamin, ‘Unpacking My Library’ in: *Illuminations*, New
     York: Schocken Books, 1968. [↩]
 
-[^26]: Benjamin, ‘Unpacking My Library’, p. 58. [↩]
+[^bodytext-02_26]: Benjamin, ‘Unpacking My Library’, p. 58. [↩]
 
-[^27]: Which are not insignificant – he really was able to sneak his way
+[^bodytext-02_27]: Which are not insignificant – he really was able to sneak his way
     into some excellent deals through cleverness and manipulation and a
     little bit of luck. [↩]
 
-[^28]: Benjamin, ‘Unpacking My Library’, p. 67. [↩]
+[^bodytext-02_28]: Benjamin, ‘Unpacking My Library’, p. 67. [↩]
 
-[^29]: Benjamin, ‘Unpacking My Library’, p. 60. [↩]
+[^bodytext-02_29]: Benjamin, ‘Unpacking My Library’, p. 60. [↩]
+
+
 
 # On/Off/Line 
 
@@ -1482,9 +1486,9 @@ could have fit on a \$10 USB stick.
 
 There was a time not that long ago when the internet was seen as the
 fulfilment of a Deleuzian rhetoric of rhizomatics.
-[^1] In the 1990s, this description wasn’t that far
+[^bodytext-03_1] In the 1990s, this description wasn’t that far
 from the truth. It seemed that the internet was this indestructible
-MilSpecs [^2] network; impregnable to assault, a
+MilSpecs [^bodytext-03_2] network; impregnable to assault, a
 final bastion of free speech and virtual community building. People
 bragged for years about how file sharing was impossible to stop, given
 internet topology: any clamp down would be met with a rhizomatic
@@ -1539,7 +1543,7 @@ Brotherhood. Tantawi’s successor is another long-term career officer,
 Abdel Fattah el-Sisi. The military thus appropriates power to itself and
 its political allies as it saw fit, and the political allies were
 conversely able to affect the leadership of the military.
-[^3]^,^[^4^] Elections were
+[^bodytext-03_3]^,^[^bodytext-03_4^] Elections were
 permitted, which Mohamed Morsi’s Muslim Brotherhood won. When Morsi’s
 rule fell into disfavour, again, the military stepped in and deposed
 him. At this writing, Egypt is still under military rule.
@@ -1557,7 +1561,7 @@ majority of our lives anyway’:
 > important, but it was really useful only to tell everyone to go to
 > Tahrir Square, and that only worked because everyone knew there was a
 > reason to. Facebook didn’t give the reason; everyone knew why because
-> of life.* [^5]
+> of life.* [^bodytext-03_5]
 
 The failure of the internet is demonstrated in 2013 with Edward
 Snowden’s leaks, showing how the NSA simply eats the internet whole,
@@ -1570,7 +1574,7 @@ single phone call.
 
 The perceived success of the web in Egypt compared to its actual
 efficacy mirrors the kinds of claims made in the early ‘frontier’ days
-of the internet [^6] that the web was unstoppable and
+of the internet [^bodytext-03_6] that the web was unstoppable and
 uncontrollable. It is becoming very clear now, with the suppression of
 data lockers, the closing of library.nu, the constant barrage of
 restrictive legislation (SOPA, PIPA, ACTA, etc.), and the overwhelming
@@ -1582,12 +1586,12 @@ internet apply to human society. This penetration of the internet by the
 NSA and [British spy agency] GCHQ is the penetration of our human
 society. It means there has been a militarisation of our civilian space.
 A military occupation of our civilian space… is a very serious matter.’
-[^7] At the same event, Edward Snowden noted: ‘The
+[^bodytext-03_7] At the same event, Edward Snowden noted: ‘The
 NSA, with this global mass surveillance that’s occurring in all
 different countries, not just the U.S. – it’s important to remember that
 this is a global issue – they’re setting fire to the future of the
 internet.’ Snowden went on to exhort the audience to be ‘firefighters’.
-[^8] While some people enlist themselves as
+[^bodytext-03_8] While some people enlist themselves as
 ‘firefighters’ others are simply moving the valuables out of the house
 before it burns down.
 
@@ -1701,14 +1705,14 @@ exchange any kind of digital file. It *is*coherent with the fundamental
 architecture of the computer: copying data from one memory register to
 another. Unfortunately, due to the exigencies of the proprietarian
 regime’s stranglehold on IP that undergirds nearly feudalist
-[^9] socio-economic arrangements, unremitting and
+[^bodytext-03_9] socio-economic arrangements, unremitting and
 often brutal applications of intellectual property ideologies have been
 imposed in order to maintain the social, political, and economic
 dominance of this unbalanced class structure.
 
 In September 2001, Napster lost the case. In November there were massive
 layoffs. When we came in that day, we all had to line up and, in turn,
-sit with a rep from Human Resources [^10] who had us
+sit with a rep from Human Resources [^bodytext-03_10] who had us
 sign our ‘go away’ papers, shook our hand, and ordered us out of the
 building. Although I was not happy about that, I was not surprised. Very
 simply put, Napster was one of the worst work environments I’ve ever had
@@ -1754,7 +1758,7 @@ these weren’t
 > scanned to expertly ripped; from English to German to French to
 > Spanish to Russian, with the occasional Japanese or Chinese text. It
 > was a remarkable effort of collective connoisseurship.
-> [^11]
+> [^bodytext-03_11]
 
 The results of the loss were predictable, and telling:
 
@@ -1764,7 +1768,7 @@ The results of the loss were predictable, and telling:
 > site – it was met with anger, sadness and fatalism. But who were these
 > sad criminals, these barbarians at the gates ready to bring our
 > information economy to its knees? They are students and scholars, from
-> every corner of the planet. [^12]
+> every corner of the planet. [^bodytext-03_12]
 
 With the erasure of library.nu, the precarity of the online became
 transparent: it is painfully obvious that online projects that provide
@@ -1780,7 +1784,7 @@ This is comparable to a local book club or literature discussion group,
 where people share books for the purpose of sharing ideas and
 observations.
 
-Over time, as Dockray has noted [^13] , the focus of
+Over time, as Dockray has noted [^bodytext-03_13] , the focus of
 aaaaarg.org shifted from a small group of people sharing ideas about a
 few books, to thousands of people uploading and downloading a
 non-trivial archive of e-books, articles, and journals. The structure of
@@ -1930,16 +1934,16 @@ vital gesture in offline file sharing as it encouraged participation.
 
 ### THE PIRATEBOX SYSTEM 
 
-The PirateBox, originally called Freedrop, [^14] is a
+The PirateBox, originally called Freedrop, [^bodytext-03_14] is a
 creative gesture by David Darts, an art professor at New York
 University. He built it to fill a need for himself and found that others
 could use it also. He posted the instructions on how to build it on a
-wiki page. [^15] The first one he made is a metal
+wiki page. [^bodytext-03_15] The first one he made is a metal
 lunch box, painted black with a white skull-and-crossbones. Inside a
 microserver is mounted running the Linux (Debian distro) operating
 system, and on top of that is a barebones Python-powered web server and
 Wi-Fi router. The device creates an open file sharing network in any
-public space. [^16]
+public space. [^bodytext-03_16]
 
 Darts describes the PirateBox as a device
 
@@ -1950,7 +1954,7 @@ Darts describes the PirateBox as a device
 > hurts artists… Today it is not productive to restrict sharing in order
 > to pay for centralized production and distribution. Prohibiting people
 > from freely sharing and remixing information and culture serves no
-> one’s interests but the publishers. [^17]
+> one’s interests but the publishers. [^bodytext-03_17]
 
 The PirateBox creates a temporary space for file sharing, a temporary
 community in a virtualized space, overlaid on a real public space. The
@@ -2007,7 +2011,7 @@ deadSwap is from the deadSwap website itself:
 > anonymous SMS gateway, meaning that the system does not require
 > Internet availability and also that, with certain precautions, it can
 > be a very private system that is quite difficult to monitor.
-> [^18]
+> [^bodytext-03_18]
 
 This kind of technology is extremely valuable for strangers to be able
 to share data on offline devices. It could be as small as a USB key, or
@@ -2049,7 +2053,7 @@ in open source systems that already exist, manipulating them to
 synergize new, more powerful library systems. He will be someone whose
 efforts I will track as the Personal Portable Library grows and becomes
 less personal and more library. I suggest you do the same.
-[^19]
+[^bodytext-03_19]
 
 These are a few of the projects around at the time of this writing. They
 point at a bright future for public file sharing reflected in a broad
@@ -2059,7 +2063,7 @@ future.
 
 * * * * *
 
-[^1]:  As a model for culture, the rhizome resists the organizational
+[^bodytext-03_1]:  As a model for culture, the rhizome resists the organizational
     structure of the root-tree system which charts causality along
     chronological lines and looks for the original source of ‘things’
     and looks towards the pinnacle or conclusion of those ‘things’. A
@@ -2070,30 +2074,30 @@ future.
     Capitalism and Schizophrenia*, Minneapolis: University of Minnesota,
     1987, p. 7. [↩]
 
-[^2]:  ‘A United States defense standard, often called a military standard,
+[^bodytext-03_2]:  ‘A United States defense standard, often called a military standard,
     “MIL-STD”, “MIL-SPEC”, or (informally) “MilSpecs”, is used to help
     achieve standardization objectives by the U.S. Department of
     Defense.’ Wikipedia, United States Military Standard.
 
-[^3]:  Hani Fakhouri, ‘Arab Spring Revolution and Rise of Religious
+[^bodytext-03_3]:  Hani Fakhouri, ‘Arab Spring Revolution and Rise of Religious
     Sectarianism’, Mid East Today, 12 April 2012,
 
     [http://mid-east-today.blogspot.ca/2012/04/arab-spring-revolution-and-rise-of.html](http://mid-east-today.blogspot.ca/2012/04/arab-spring-revolution-and-rise-of.html).
 
-[^4]:  Recent upset in Egypt only serves to underscore these points: The
+[^bodytext-03_4]:  Recent upset in Egypt only serves to underscore these points: The
     military made a deal with the Muslim Brotherhood, but when the
     leader, Morsi, proved suboptimal and millions turned out to protest
     his reign, the military stepped in and Morsi was deposed. What this
     shows is not the power of the internet in Egypt but the power of the
     military. [↩]
 
-[^5]:  Laura Gottesdiener, ‘“Why Do Oppressed People Have such Great
+[^bodytext-03_5]:  Laura Gottesdiener, ‘“Why Do Oppressed People Have such Great
     Jokes?” The Yes Men’s Andy Bichlbaum’, *Waging Non Violence*, 23
     April 2012,
     [http://wagingnonviolence.org/2012/04/why-do-oppressed-people-have-such-great-jokes-the-yes-mens-andy-bichlbaum/](http://wagingnonviolence.org/2012/04/why-do-oppressed-people-have-such-great-jokes-the-yes-mens-andy-bichlbaum/).
     Emphasis added. [↩]
 
-[^6]:  The geographic metaphor of the internet as frontier is one I hope to
+[^bodytext-03_6]:  The geographic metaphor of the internet as frontier is one I hope to
     explore in a future volume. It was explored by Beth Scannell in her
     master’s thesis *Life on the Border: Cyberspace and the Frontier in
     Historical Perspective*
@@ -2101,30 +2105,30 @@ future.
     and deserves greater development now that the frontier is closed and
     the enclosure process has begun.[↩]
 
-[^7]:  Stuart Dredge, ‘Julian Assange Tells SXSW Audience: “NSA has grown
+[^bodytext-03_7]:  Stuart Dredge, ‘Julian Assange Tells SXSW Audience: “NSA has grown
     to be a rogue agency”’, *The Guardian,*8 March 2014,
     [http://www.theguardian.com/media/2014/mar/08/julian-assange-wikileaks-nsa-sxsw](http://www.theguardian.com/media/2014/mar/08/julian-assange-wikileaks-nsa-sxsw).
 
-[^8]:  Cory Doctorow, ‘Edward Snowden: “The NSA Set Fire to the Internet.
+[^bodytext-03_8]:  Cory Doctorow, ‘Edward Snowden: “The NSA Set Fire to the Internet.
     You Are the Firefighters”’, *The Guardian*, 11 March 2014,
     [http://www.theguardian.com/technology/2014/mar/11/edward-snowden-sxsw-nsa-internet](http://www.theguardian.com/technology/2014/mar/11/edward-snowden-sxsw-nsa-internet).
 
-[^9]:  For more on informational feudalism, I recommend Drahos and
+[^bodytext-03_9]:  For more on informational feudalism, I recommend Drahos and
     Braithwaite’s *Information Feudalism: Who Owns the Information
     Economy?*New York: The New Press, 2002. [↩]
 
-[^10]: Human Resources is a notion I find repellent in its dehumanizing
+[^bodytext-03_10]: Human Resources is a notion I find repellent in its dehumanizing
     transduction of people with hopes and dreams into mere ‘resources’
     like glass, steel, and concrete. At least the term ‘Personnel’ has
     the word ‘Person’ in it. [↩]
 
-[^11]: Christopher Kelty, ‘The Disappearing Virtual Library’, *Al Jazeera*,
+[^bodytext-03_11]: Christopher Kelty, ‘The Disappearing Virtual Library’, *Al Jazeera*,
     1 March 2012,
     [http://www.aljazeera.com/indepth/opinion/2012/02/2012227143813304790.html](http://www.aljazeera.com/indepth/opinion/2012/02/2012227143813304790.html).
 
-[^12]: Kelty,‘The Disappearing Virtual Library’. [↩]
+[^bodytext-03_12]: Kelty,‘The Disappearing Virtual Library’. [↩]
 
-[^13]: ‘It was pretty simple at the beginning – sharing things with people
+[^bodytext-03_13]: ‘It was pretty simple at the beginning – sharing things with people
     who I was working with or in contact with. The community originally
     was tiny. The ways that people have since figured out how to use it
     are very personal to them, or are communal, forming relationship
@@ -2138,14 +2142,14 @@ future.
     January 2010,
     [http://mastersofmedia.hum.uva.nl/2010/01/05/small-is-beautiful-a-discussion-with-aaaarg-architect-sean-dockray/](http://mastersofmedia.hum.uva.nl/2010/01/05/small-is-beautiful-a-discussion-with-aaaarg-architect-sean-dockray/).
 
-[^14]: Jacob Aron, ‘PirateBox Lets You Share Files with Anyone Close by’,
+[^bodytext-03_14]: Jacob Aron, ‘PirateBox Lets You Share Files with Anyone Close by’,
     *New Scientist*, 28 January 2011,
     [http://www.newscientist.com/blogs/onepercent/2011/01/piratebox.html](http://www.newscientist.com/blogs/onepercent/2011/01/piratebox.html).
 
-[^15]: David Darts, ‘David Darts: Pirate Box DIY Page’,
+[^bodytext-03_15]: David Darts, ‘David Darts: Pirate Box DIY Page’,
     [http://wiki.daviddarts.com/PirateBox\_DIY](http://wiki.daviddarts.com/PirateBox_DIY).
 
-[^16]: ‘Inside the PirateBox sits a Free Agent Dockstar, an Asus WL330GE
+[^bodytext-03_16]: ‘Inside the PirateBox sits a Free Agent Dockstar, an Asus WL330GE
     wireless router, and a SanDisk 16GB flash drive. The software,
     including Debian Linux and the DD-WRT open-source router firmware,
     is all free. The total build cost is under \$100, not counting the
@@ -2155,13 +2159,15 @@ future.
     2011,
     [http://arstechnica.com/tech-policy/news/2011/01/piratebox-an-artistic-provocation-in-lunchbox-form.ars](http://arstechnica.com/tech-policy/news/2011/01/piratebox-an-artistic-provocation-in-lunchbox-form.ars).
 
-[^17]: See, ‘David Darts: Pirate Box DIY page’,
+[^bodytext-03_17]: See, ‘David Darts: Pirate Box DIY page’,
     [http://wiki.daviddarts.com/PirateBox\_DIY](http://wiki.daviddarts.com/PirateBox_DIY).
 
-[^18]: See,
+[^bodytext-03_18]: See,
     [http://deaddrops.com/deadswap/](http://deaddrops.com/deadswap/).
 
-[^19]: See, [http://gle.ovo.kom.uni.st/](http://gle.ovo.kom.uni.st/).
+[^bodytext-03_19]: See, [http://gle.ovo.kom.uni.st/](http://gle.ovo.kom.uni.st/).
+
+
 
 # Futures and Potentials 
 
@@ -2245,7 +2251,7 @@ on-site. As noted in the Wall Street Journal:
 > 50 designed for children. The library will allow users to access books
 > remotely, and will feature 25 laptops and 25 tablets for use on site,
 > as well as 50 desktop computers. It will also have its own coffee
-> house. [^1]
+> house. [^bodytext-04_1]
 
 With 5 MB PDFs, the entire library collection could fit on a 64 GB USB
 stick. If they are EPUB or text files, the entire library would fit on
@@ -2268,9 +2274,9 @@ file sharing. As noted earlier, if SOPA had been passed, one could spend
 more time in jail for sharing a Michael Jackson song than the doctor who
 killed him. The intensity and brutality of this approach has harmed the
 lives of many. It was, per his loved ones and family, a factor in the
-suicide of Aaron Swartz. [^2] This draconian
+suicide of Aaron Swartz. [^bodytext-04_2] This draconian
 approach has not been particularly effective at stopping file sharing
-[^3] , nor has it done much good for the image of
+[^bodytext-04_3] , nor has it done much good for the image of
 the proprietarian corporations as it has created its own nemesis in the
 Pirate Party and similar organisations. For that reason, while the
 legalistic approach is a consistent pressure, it has become a secondary
@@ -2367,7 +2373,7 @@ data, but merely rents it – even if the file is on one’s Kindle. A few
 years ago, there was controversy over publishing rights of George
 Orwell’s *1984*, and Amazon globally withdrew the book from all Kindle
 readers – a chillingly ironic display of proprietarian prerogative and
-force. [^4] This shift from knowledge provision to
+force. [^bodytext-04_4] This shift from knowledge provision to
 knowledge rental is a profound one, and one that a Personal Portable
 Library directly refutes.
 
@@ -2469,22 +2475,22 @@ us.
 
 * * * * *
 
-[^1]:  Miguel Bustillo, ‘Library that Holds no Books’, *Wall Street
+[^bodytext-04_1]:  Miguel Bustillo, ‘Library that Holds no Books’, *Wall Street
     Journal*, 6 February 2013,
     [http://online.wsj.com/news/articles/SB10001424127887324761004578286253988145208](http://online.wsj.com/news/articles/SB10001424127887324761004578286253988145208).
 
-[^2]:  See Aaron Swartz’ family statement regarding his death: Owen Thomas,
+[^bodytext-04_2]:  See Aaron Swartz’ family statement regarding his death: Owen Thomas,
     ‘Family of Aaron Swartz Blames MIT, Prosecutor For His Death’,
     *Business Insider*, 12 January 2013,
     [http://www.businessinsider.com/statement-family-aaron-swartz-2013-1](http://www.businessinsider.com/statement-family-aaron-swartz-2013-1).
 
-[^3]:  Dan Tynan, ‘The RIAA Knew SOPA and PIPA Were Useless yet Supported
+[^bodytext-04_3]:  Dan Tynan, ‘The RIAA Knew SOPA and PIPA Were Useless yet Supported
     Them Anyway’, *ITWorld* , 29 July 2012,
     [http://www.itworld.com/it-managementstrategy/287788/riaa-knew-sopa-and-pipa-were-useless-against-piracy-and-supported-them-](http://www.itworld.com/it-managementstrategy/287788/riaa-knew-sopa-and-pipa-were-useless-against-piracy-and-supported-them-).
     ‘The industry knows that most music files are swapped offline, notes
     Torrent Freak.’ [↩]
 
-[^4]:  Brad Stone, ‘Amazon Erases Orwell Books From Kindle’, *The New York
+[^bodytext-04_4]:  Brad Stone, ‘Amazon Erases Orwell Books From Kindle’, *The New York
     Times*, 17 July 2009,
     [http://www.nytimes.com/2009/07/18/technology/companies/18amazon.html](http://www.nytimes.com/2009/07/18/technology/companies/18amazon.html).
 
@@ -2612,6 +2618,8 @@ World Bank. *Poverty and Inequality Database*,
 
 Yurick, Sol. *Behold Metatron: The Recording Angel*, New York:
 Semiotext(e), 1985.
+
+
 
 
 

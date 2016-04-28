@@ -74,9 +74,30 @@ and Akademie Schloss Solitude (Stuttgart).
 
 
 ## About Bugs Bots & Bytes - Hackers & Designers. 
-Raw content: http://wiki.hackersanddesigners.nl/mediawiki/index.php/Category:Print
+Raw content: http://wiki.hackersanddesigners.nl/mediawiki/index.php/Book_sprint_2015
     
-More about this project soon
+About Bugs Bots & Bytes is a self-published reader, compiled by Amsterdam-based collective Hackers & Designers. The content of the reader has been accumulated collectively during and after the H&D Summer Academy 2015 – About Bugs Bots and Bytes.  
+
+The web- and print documentation is a collective investigation into cross-media publishing. Inspired by DIY culture and publications such as The Whole Earth Catalog, the reader has been prepped as a collection of How To-manuals, articles and adverts. Further information and digital media content can be found on hackersanddesigners.nl, wiki.hackersanddesigners.nl and github.com/hackersanddesigners/HDSA2015
+
+
+The Hackers & Designers Summer Academy 2015 was funded by
+Stimulieringsfonds and kindly supported by WAAG Society
+and Lava Lab.
+
+This publication uses materials produced during the H&D Summer Academy 2015 and is compiled using Wikimedia as a co-publishing platform.
+Find more information about the web to print infrastructure: http://wiki.hackersanddesigners.nl/mediawiki/index.php/How_to_document_a_summer_academy
+
+About Bugs Bots and Bytes.
+Hackers & Designers Summer Academy 2015 documentation
+Amsterdam, 2015
+@De PUNT, Frans de Wollanstraat, 1018SC Amsterdam, The Netherlands
+
+www.hackersanddesigners.nl
+wiki.hackersanddesigners.nl
+
+Edition: 50
+Printing: Stencilzolder Amsterdam   
 
 
 # TODO

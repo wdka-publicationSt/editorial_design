@@ -2,15 +2,16 @@
 
 The Hackers & Designers Summer Academy is funded by:          
 
-[[File:stim.jpg|60px|Stimulieringsfonds logo]]         
+
+![Stimulieringsfonds](stim.jpg)         
 
 and kindly supported by:         
  
-[[File:waag.jpg|60px|WAAG Society logo]] <br>            
-[[File:lava.jpg|60px|Lava Lab logo]]          
+![Waag Society](waag.jpg)<br>            
+![Lava Lab](lava.jpg)         
 
 This publication uses materials produced during the H&D Summer Academy 2015 and is compiled using Wikimedia as a co-publishing platform. <br>    
-Find more information about the web to print infrastructure here: [http://wiki.hackersanddesigners.nl/mediawiki/index.php/How_to_document_a_summer_academy] <br>
+Find more information about the web to print infrastructure here: (http://wiki.hackersanddesigners.nl/mediawiki/index.php/How_to_document_a_summer_academy) <br>
 <br>
 About Bugs Bots and Bytes. <br> 
 Hackers & Designers Summer Academy 2015 documentation <br>

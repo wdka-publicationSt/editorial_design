@@ -15,20 +15,19 @@ To make your plant tweet when it needs water you need the following:
 ###Step 1 <br> 
 Connect your plant via a simple circuit to an Arduino.  
 
-[[File:Arduino-plant.png|400px|Arduino and plant]]  
+![Arduino and plant](Arduino-plant.png)
 
 ###Step 2 <br>   
 Upload these lines of code to the Arduino via the computer
 
-[[File:Arduino-plant-code.png|400px|copy this code (available on Github)]]
+![copy this code (available on Github)](Arduino-plant-code.png)
 
 The Arduino code can be found at https://github.com/arjan/talkingplant/blob/master/PlantArduino/PlantArduino.ino  
-
 
 ###Step 3<br>  
 Run the Processing plant tweet sketch on the computer.  
  
-[[File:Processing.png|400px|copy this code (available on Github)]]  
+![copy this code (available on Github)](Processing.png)
 
 The Processing sketch can be found at https://github.com/arjan/talkingplant/tree/master/PlantProcessing  
 

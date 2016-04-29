@@ -37,7 +37,7 @@ I added the glossary of potential friction as an attempt to give a complete and 
 
 ###Resources
 
-*[transmediale.de/collaborative-futures] (http://transmediale.de/collaborative-futures)
+*[transmediale.de/collaborative-futures](http://transmediale.de/collaborative-futures)
 
 *[Hybrid Publishing Toolkit](http://networkcultures.org/blog/publication/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts/) 
 

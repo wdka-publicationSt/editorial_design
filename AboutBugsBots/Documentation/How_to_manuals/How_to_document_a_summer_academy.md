@@ -190,8 +190,7 @@ Missing latex dependencies can be installed with:
 
     tlmgr install <pkgname>
 
-
-[[File:documentation-workflow.jpg|500px|Diagram: How this publication came into being]]
+![Diagram: How this publication came into being](documentation-workflow.jpg)
 
 ###Dos and Don'ts      
 * Adding links to titles will cause errors    

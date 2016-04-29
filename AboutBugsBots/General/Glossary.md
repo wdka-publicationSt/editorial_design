@@ -39,5 +39,5 @@
 * TTY: Teletypewriter (originally), or a text display device, as used by deaf to read voice communication converted to text by a communication assistant device (CA). Or: Text messaging, (Internet slang) Initialism of Talk to you. The TTY's on linux, allows switching between X window system and command-line interface
 * Ubuntu: A Linux operating system and distribution, with Unity as its default desktop environment for personal computers including smartphones in later versions. Ubuntu also runs network servers. It is based on free software and named after the Southern African philosophy of ubuntu (literally, "human-ness"), which often is translated as "humanity towards others" or "the belief in a universal bond of sharing that connects all humanity". A default installation of Ubuntu contains a wide range of software that includes LibreOffice, Firefox, Thunderbird, Transmission
 
-More notes here: [https://github.com/hd-onions/hackersanddesigners/blob/master/notes.markdown]
+More notes here: (https://github.com/hd-onions/hackersanddesigners/blob/master/notes.markdown)
 

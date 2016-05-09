@@ -23,18 +23,23 @@ view a copy of this license, visit
 * ISBN: 978-90-822345-0-3 (ePub)
 
 
+-------------
 
 
 ## The Radiated Book - ed. Femke Snelting
 
+The Radiated Book is a collection of essays with [Paul Otlet](https://en.wikipedia.org/wiki/Paul_Otlet), the father of documentation science, and Otlet's Mundameum (his extensive archive) as center their centeral elements of the essays.
 
-**Femke will send a description soon**
+> In 1993, the remains of Otlet’s extensive collection of documents were moved from Brussels to The Mundaneum Archive Center in Mons. Located in a former mining region in the south of Belgium, Mons is also right next to Google’s largest datacenter in Europe. Due to the re-branding of Otlet as a ‘founding father of the Internet’, and ‘visionary inventor of Google on paper’, his oeuvre received international attention. Simultaneously, local politicians have been ceasing the moment, making The Mundaneum a central node in their rhetorical promise of turning the industrial heartland into a home for The Internet Age. Google — grateful for discovering their posthumous francophone roots — signed a collaboration contract with The Mundaneum in 2013. The archive center outsourced its digital archives to the search giant, allowing them to publish hundreds of documents on the website of The Google Cultural Institute.
+
+> Bringing these ever expanding entanglements gradually to light, a band of artists, archivists and activists formed. Wanting to make a difference from how geographically situated histories are meshed into generic slogans, concerned by faltering local governments pushing cultural infrastructures into the hands of global corporations and perplexed by the apparently still undigested dreams of universal knowledge, we decided to appropriate Mondothèque as a frame of reference. Imagined by Paul Otlet in 1934, La Mondothèque was to be a ’thinking machine’: archive, link generator, desk, catalog and broadcast station at the same time. The dreamed capacity of Mondothèque to combine scales, perspectives and media started to function as a diffraction device, as a platform to envision our modest but persistent interventions together.
+
+
 
 Raw book content in  <http://www.mondotheque.be/wiki/index.php/The_radiated_book>
 
 Video from Femke Snelting's lecture on Mondothéque: <https://www.youtube.com/watch?v=5PTrkUKUlT8>. Public Library. Rethinking the Infrastructures of Knowledge Production.
 
-**Find video on Otlet *The Man Who Wanted to Classify the World***
 
 
 ### Colophon
@@ -70,7 +75,7 @@ Mondothèque was supported by De Vlaamse GemeenschapsCommissie (Brussels)
 and Akademie Schloss Solitude (Stuttgart).
 
 
-
+-------------
 
 
 ## About Bugs Bots & Bytes - Hackers & Designers. 
@@ -93,8 +98,9 @@ Hackers & Designers Summer Academy 2015 documentation
 Amsterdam, 2015
 @De PUNT, Frans de Wollanstraat, 1018SC Amsterdam, The Netherlands
 
-www.hackersanddesigners.nl
-wiki.hackersanddesigners.nl
+<http://www.hackersanddesigners.nl/#/>
+
+<http://wiki.hackersanddesigners.nl/>
 
 Edition: 50
 Printing: Stencilzolder Amsterdam   

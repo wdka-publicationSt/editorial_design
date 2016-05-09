@@ -20,14 +20,14 @@ Connect your plant via a simple circuit to an Arduino.
 ###Step 2 <br>   
 Upload these lines of code to the Arduino via the computer
 
-![copy this code (available on Github)](Arduino-plant-code.png)
+![copy this code \(available on Github\)](Arduino-plant-code.png)
 
 The Arduino code can be found at https://github.com/arjan/talkingplant/blob/master/PlantArduino/PlantArduino.ino  
 
 ###Step 3<br>  
 Run the Processing plant tweet sketch on the computer.  
  
-![copy this code (available on Github)](Processing.png)
+![copy this code \(available on Github\)](Processing.png)
 
 The Processing sketch can be found at https://github.com/arjan/talkingplant/tree/master/PlantProcessing  
 
